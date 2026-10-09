@@ -2,3 +2,4 @@ Hello siva
 welcome to Git
 enter your password
 enter your user name
+Git makes version control easy.
